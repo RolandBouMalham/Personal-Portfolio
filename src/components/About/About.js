@@ -17,7 +17,7 @@ const About = () => {
             Hi There ! I am a Certified IBM DevOps and Software Engineer. 
             I've got 3 years experience working as a Electronics and Communication Engineer,
             and 1 year working remotely with a UK based company as a Full-Stack Developer.
-            I am a passionate about coding and full stack development. Certified and exprienced Angular, React.js, Python and Django Developer. 
+            I am a passionate about coding and full stack development. Certified and experienced Angular, React.js, Python and Django Developer. 
             Curious lifelong learner that loves the work and has an appetite for challenging problems.
           </p>
         </div>
