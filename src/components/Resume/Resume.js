@@ -12,8 +12,26 @@ const Resume = () => {
           <h1 className="resume__title work">Work</h1>
         </div>
         <div className="resume__optionRight work">
+        <div className="resume__info">
+            <h1>Resultier (Idaho, USA)</h1>
+            <h4>Frontend Web Developer (April 2022 – November 2022)</h4>
+            <p>
+              -Executing 50+ Angular tasks through 14 sprints. 
+            </p>
+            <p>
+              -Worked with the Product Owner to understand requirements and translate them into technical solutions.
+            </p>
+            <p>
+              -Collaborated closely with a team of 10 members of other developers, designers, quality assurance and DevOps engineers
+              in a cross-functional Scrum team. 
+            </p>
+            <p>
+              - Built modules through a combination of Angular, HTML, SCSS, JavaScript/TypeScript for frontend, and PHP for 
+              backend 
+            </p>
+          </div>
           <div className="resume__info">
-            <h1>ThreeEyes Ltd. (London, United Kingdom)</h1>
+            <h1>CyberRATSS Ltd. (London, United Kingdom)</h1>
             <h4>Full Stack Developer (July 2021 – April 2022)</h4>
             <p>
               -Responsible for the implementation of responsive, mobile- first web pages. 
@@ -105,6 +123,7 @@ const Resume = () => {
                 <p>JavaScript</p>
                 <p>TypeScript</p>
                 <p>Bootstrap</p>
+                <p>Tailwind CSS</p>
               </div>
 
               <div className="resume__infoSkills">

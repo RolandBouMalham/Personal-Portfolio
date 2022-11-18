@@ -15,8 +15,9 @@ const About = () => {
           <h1>About Me</h1>
           <p>
             Hi There ! I am a Certified IBM DevOps and Software Engineer. 
-            I've got 3 years experience working as a Electronics and Communication Engineer,
-            and 1 year working remotely with a UK based company as a Full-Stack Developer.
+            I've got 1 year of experience working remotely with a US company as a Frontend Web Developer,
+            and 1 year of experience working remotely with a UK company as a Full-Stack Web Developer, 
+            and 3 years experience working as a Electronics and Communication Engineer.
             I am a passionate about coding and full stack development. Certified and experienced Angular, React.js, Python and Django Developer. 
             Curious lifelong learner that loves the work and has an appetite for challenging problems.
           </p>
@@ -34,7 +35,7 @@ const About = () => {
 
           <div className="about__resume">
             <a
-              href="https://drive.google.com/drive/u/0/my-drive?msclkid=8e1043dfbbd711ecb73546705800be38"
+              href="https://drive.google.com/file/d/1OVeTeZpfCAJmVzDfzy0GUMAcwXQVuesM/view?usp=share_link"
               target="_blank"
               rel="noreferrer"
             >
