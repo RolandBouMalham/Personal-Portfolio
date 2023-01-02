@@ -14,9 +14,9 @@ const Resume = () => {
         <div className="resume__optionRight work">
         <div className="resume__info">
             <h1>Resultier (Idaho, USA)</h1>
-            <h4>Frontend Web Developer (April 2022 – November 2022)</h4>
+            <h4>Frontend Web Developer (April 2022 – December 2022)</h4>
             <p>
-              -Executing 50+ Angular tasks through 14 sprints. 
+              -Executing 70+ Angular and React tasks through 18 sprints. 
             </p>
             <p>
               -Worked with the Product Owner to understand requirements and translate them into technical solutions.
@@ -26,7 +26,7 @@ const Resume = () => {
               in a cross-functional Scrum team. 
             </p>
             <p>
-              - Built modules through a combination of Angular, HTML, SCSS, JavaScript/TypeScript for frontend, and PHP for 
+              - Built modules through a combination of Angular, React, HTML, SCSS, JavaScript/TypeScript for frontend, and PHP for 
               backend 
             </p>
           </div>
